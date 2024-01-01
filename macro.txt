@@ -1,0 +1,572 @@
+echo "
+
+████████╗░█████╗░██╗░░░██╗░█████╗░██╗░░██╗
+╚══██╔══╝██╔══██╗██║░░░██║██╔══██╗██║░░██║
+░░░██║░░░██║░░██║██║░░░██║██║░░╚═╝███████║
+░░░██║░░░██║░░██║██║░░░██║██║░░██╗██╔══██║
+░░░██║░░░╚█████╔╝╚██████╔╝╚█████╔╝██║░░██║
+░░░╚═╝░░░░╚════╝░░╚═════╝░░╚════╝░╚═╝░░╚═╝
+                                           "
+echo "amiroux  "
+echo ""
+echo "🔍📱 ip tRago "
+echo "■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■"
+echo "[☣] Baseband Version ⟿ $(getprop gsm.version.baseband)"
+echo "[☣] Kernel      ⟿ $(uname -r)"
+echo "[☣] Android SDK   ‎⟿ $(getprop ro.build.version.sdk)"
+echo "[☣] Android Version  ⟿ $(getprop ro.build.version.release)"
+echo "[☣] Device Model   ⟿ $(getprop ro.product.model)"
+echo "[☣] Brand      ‎⟿ $(getprop ro.product.brand)"
+echo "[☣] Model      ‎⟿ $(getprop ro.product.model)"
+echo "[☣] Product      ⟿ $(getprop ro.build.product)"
+echo "[☣] Hardware     ⟿ $(getprop ro.hardware)"
+echo "[☣] GPU       ‎⟿ $(getprop ro.opengles.version)"
+echo "[☣] CPU        ⟿ $(getprop ro.product.cpu.abi)"
+echo "■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■━■"
+echo "
+┌───── •✧✧• ─────┐
+-fastIp: amiroux
+└───── •✧✧• ─────┘"
+echo ""
+echo ""
+echo "
+░░░░▄▄▄▄▀▀▀▀▀▀▀▀▄▄▄▄▄▄
+░░░░█░░░░▒▒▒▒▒▒▒▒▒▒▒▒░░▀▀▄
+░░░█░░░▒▒▒▒▒▒░░░░░░░░▒▒▒░░█
+░░█░░░░░░▄██▀▄▄░░░░░▄▄▄░░░█
+░▀▒▄▄▄▒░█▀▀▀▀▄▄█░░░██▄▄█░░░█
+█▒█▒▄░▀▄▄▄▀░░░░░░░░█░░░▒▒▒▒▒█
+█▒█░█▀▄▄░░░░░█▀░░░░▀▄░░▄▀▀▀▄▒█
+░█▀▄░█▄░█▀▄▄░▀░▀▀░▄▄▀░░░░█░░█
+░░█░░▀▄▀█▄▄░█▀▀▀▄▄▄▄▀▀█▀██░█
+░░░█░░██░░▀█▄▄▄█▄▄█▄████░█
+░░░░█░░░▀▀▄░█░░░█░███████░█
+░░░░░▀▄░░░▀▀▄▄▄█▄█▄█▄█▄▀░░█
+░░░░░░░▀▄▄░▒▒▒▒░░░░░░░░░░█
+░░░░░░░░░░▀▀▄▄░▒▒▒▒▒▒▒▒▒▒░█
+░░░░░░░░░░░░░░▀▄▄▄▄▄░░░░░█
+
+"
+echo ""
+sleep 1
+echo " [•] ip test ( Permanent ) ✔ "
+(
+settings put system MOUSEX_AIM_LEVEL 100%
+settings put system MOUSE_AIM_SENSITIVTY_SWITCH true
+settings put system MOUSE_FILTERING 0.0
+settings put system MOUSE_GRADUALLY_SWITCH_WHILE_AIMING true
+settings put system MOUSE_SENSITIVITY 100.50
+settings put system MOUSE_SMOOTHING ENABLE
+settings put system MOUSE_SWITCH_AFTER_AIM_ANIMATION_ENDS true
+settings put system MOUSE_SWITCH_IMIDIATELLY_AIMING_STARTS true
+settings put system MOUSE_VERTICAL_SENSITIVITY_MULTIPLIER 100.15
+settings put system MOUSEX_ef_variadic_parameters co-ordinate
+settings put system MOUSE_gestures ASCII
+settings put system MultitouchMinDistance 1px
+settings put system MultitouchSettleInterval 0.1ms
+settings put system MultitouchMinDistance 1px
+settings put system DisplayCutoutEmulationCornerOverlay.velocity 000.1
+settings put system DisplayCutoutEmulationWaterfallOverlay true
+settings put system DisplayCutoutEmulationCornertouchScreen 1
+settings put system DisplayCutoutEmulationDoubleOverlay true
+settings put system DisplayCutoutEmulationHoleOverlay Scroll_fixed
+settings put system PointerGesture speed
+settings put system PointerVelocityControlParameters 1
+settings put system PowerbuttonTapping 0
+settings put system PressureForID 1
+settings put system SensitivyX AimBot
+settings put system Set_gestures OEM
+settings put system Slide_control_screen light
+settings put system settings put system Swipe tftype4
+settings put system SwipeMaxWidthRatio 1
+settings put system SwipeTransitionAngleCosine 5.0
+settings put system TOUCH.POINT.CALIBRATION OEM
+settings put system TOUCH.PRESSURE.CALIBRATION performance
+settings put system TOUCH.PRESSURE.CELEBRATION performance
+settings put system TOUCH.SIZE.CALIBRATION geometric
+settings put system TOUCH.SPEED.CALIBRATION adapt
+settings put system TOUCH.TXT.CALIBRATION performance
+settings put system TOUCH_DIRECTINAL_AIMING 100
+settings put system TOUCH_DUMMY Bots
+settings put system TOUCH_FreeLook 100
+settings put system TapDrag tftype4
+settings put system TapInterval 0.1ms
+settings put system TapSlop tftype4
+settings put system TOUCHAndHold OEM
+settings put system TOUCHCount 100
+settings put system TOUCH_Heldinterval_Count auto
+settings put system TOUCHscreen_threshold 9
+settings put system TransformGesture Game_objetc
+settings put system VIB_FEEDBACK_MAGNITUDE 0
+settings put system VirtualKeyQuietTime 0
+settings put system ZoomSpeedRatio 1
+settings put system af.resampler.quality 255
+settings put system ro.sf.sample_size 2
+settings put system ro.surface_flinger.has_HDR_display false
+settings put system ro.surface_flinger.has_wide_color_display false
+settings put system ro.surface_flinger.max_events_per_sec 300
+settings put system ro.surface_flinger.max_frame_buffer_acquired_buffers 3
+settings put system ro.surface_flinger.running_without_sync_framework true
+settings put system ro.surface_flinger.set_idle_timer_ms 100
+settings put system ro.surface_flinger.set_touch_timer_ms 50
+settings put system ro.surface_flinger.use_color_management true
+settings put system ro.surfaceflinger.hardwareacceleration 1
+settings put system ro.sys.fw.dex2oat_thread_count 4
+settings put system ro.sys.sdcardfs true
+settings put system ro.sys_fw.use_mlc 1
+settings put system ro.sys_fw.use_power_workqueues 1
+settings put system ro.sys_fw_use_power_saving_animations true
+settings put system ro.sys_fw_use_sched_mc_power_savings 1
+settings put system ro.sys_fw_use_smart_battery true
+settings put system ro.sys_power_mode 1
+settings put system ro.telephony.call_ring.delay 0
+settings put system ro.treble.enabled false
+settings put system touch.accelerate.hw 1
+settings put system touch.accelerated.hw 1
+settings put system touch.assistant.enabled 0
+settings put system touch.coverage.cabration box
+settings put system touch.coverage.calibration tftype4
+settings put system touch.deviceType touchScreen
+settings put system touch.distance.calibration tftype4
+settings put system touch.distance.scale physical
+settings put system touch.filter.level 2
+settings put system touch.filter.path /system/lib/touchfilter/tftype4.so
+settings put system touch.filter.tftype4.AccDrag interpolated
+settings put system touch.filter.tftype4.AccSize 8
+settings put system touch.filter.tftype4.AddInitialAcc 1
+settings put system touch.filter.tftype4.AssumedDelayFactorA -11.71
+settings put system touch.filter.tftype4.AssumedDelayFactorB 10.53
+settings put system touch.filter.tftype4.AssumedDelayFactorC -0.81
+settings put system touch.filter.tftype4.DefaultInitialAcc 0
+settings put system touch.filter.tftype4.DirectivePriorityFactor 0.9
+settings put system touch.filter.tftype4.DragRangeSize 3
+settings put system touch.filter.tftype4.Enabled 1
+settings put system touch.filter.tftype4.GapResolver 0.9
+settings put system touch.filter.tftype4.LatestSpeedWeight 0.12
+settings put system touch.filter.tftype4.MaxNumTouch 10
+settings put system touch.filter.tftype4.MaxSpeed 0.055
+settings put system touch.filter.tftype4.NoAccDistanceMax 950.0
+settings put system touch.filter.tftype4.NoAccDistanceMin 15.0
+settings put system touch.filter.tftype4.NoAccRate 0.3
+settings put system touch.filter.tftype4.OrgSize 8
+settings put system touch.filter.tftype4.PStablePositionFactor 0
+settings put system touch.filter.tftype4.PositionFactorA 0.2
+settings put system touch.gestureMode pointer
+settings put system touch.gesture_mode spots
+settings put system touch.input_flinger.calibration physical
+settings put system touch.isHardware.accelerated true
+settings put system touch.isHw 1
+settings put system touch.orientation.calibration tftype4
+settings put system touch.orientationAware 1
+settings put system touch.pressure.calibration amplitude
+settings put system touch.pressure.scale 0.0125
+settings put system touch.pressure.source touchScreen
+settings put system touch.scale 5
+settings put system touch.scroll.calibration physical
+settings put system touch.size.bias -13.924837
+settings put system touch.size.calibration diameter
+settings put system touch.size.isSummed 0
+settings put system touch.size.scale 32.69
+settings put system touch.speed.calibration speed
+settings put system touch.surface_flinger.calibration physical
+settings put system touch.toolSize.areaBias 0
+settings put system touch.toolSize.areaScale 1
+settings put system touch.toolSize.calibration geometric
+settings put system touch.toolSize.isSummed 0
+settings put system touch.toolSize.linearBias 0
+settings put system touch.toolSize.linearScale 1
+settings put system touch.touchSize.calibration geometric
+settings put system touch.txt.calibration speed
+settings put system touchCount 100
+settings put system touch_FreeLook 100
+settings put system touch_action pan_x
+settings put system touch_boost 1
+settings put system touch_click_start 0.01
+settings put system touch_directinal_aiming 100
+settings put system touch_fixed_sensitivity true
+settings put system touch_leave fast
+settings put system touch_oem true
+settings put system touch_speed 100
+settings put system touch_stocks OEM
+settings put system touchboost 1
+settings put system touchscreen_double_tap_speed 100
+settings put system touchscreen_gesture_mode 1
+settings put system touchscreen_hovering 0
+settings put system touchscreen_min_press_time 30
+settings put system touchscreen_pointer_speed 100
+settings put system touchscreen_pressure_calibration 4096
+settings put system touchscreen_sensitivity 100
+settings put system touchscreen_sensitivity_mode 3
+settings put system touchscreen_sensitivity_scale 99.9
+settings put system touchswipedeadzone 5
+settings put system tty_mode 0
+settings put system touch.toolSize.areaScale 22
+settings put system touch.toolSize.areaBias 0
+settings put system touch.toolSize.linearScale 9.2
+settings put system touch.toolSize.linearBias 0
+settings put system TapDragInterval 0
+settings put system KeyRepeatDelay 0
+settings put system KeyRepeatTimeout 0
+settings put system VirtualKeyQuietTime 0
+settings put system acceleration 2527200
+settings put system ZoomSpeedRatio 1
+settings put system lowThreshold 0
+settings put system highThreshold 0
+settings put system SwipeTransitionAngleCosine 3.6
+settings put system DragMinSwitchSpeed 2527200
+settings put system MultitouchMinDistance 1px
+settings put system MultitouchSettleInterval 0.1ms
+settings put system TapInterval 0.1ms
+settings put system TapSlop 1px
+settings put system touch.coverage.calibration geometric
+settings put system touch.deviceType touchScreen
+settings put system touch.distance.calibration geometric
+settings put system touch.distance.scale 0
+settings put system touch.gestureMode spots
+settings put system touch.orientation.calibration geometric
+settings put system touch.pressure.calibration geometric
+settings put system touch.size.calibration geometric
+settings put system touch.size.isSummed 0
+settings put system touch.size.scale 1
+settings put system touch.speed.calibration geometric
+settings put system touch.txt.calibration geometric
+settings put system touch_directinal_aiming 100
+settings put system touch.assistant.enabled 0
+settings put system touchCount 100
+settings put system touch_FreeLook 100
+settings put system type.touch_speed true
+settings put system view.touch_slop 5
+settings put system MovementSpeedRatio 0.8
+settings put system accuracy.control 100
+settings put system adaptive_touch_sensitivity 1
+settings put system PointerGesture true
+settings put system PointerVelocityControlParameters  1
+settings put system PowerbuttonTapping 0
+settings put system PressureForID 0.01
+settings put system QuietInterval 0.1ms
+settings put global preferred_network_mode 9
+settings put global wifi_sleep_policy 2
+settings put global tether_dun_required 0
+settings put global stay_on_while_plugged_in 3
+settings put system radio.data_stall_treshold 1
+settings put system radio.sib11_thresh 31
+settings put system radio.better_ps_reception 1
+settings put global preferred_network_mode 12
+settings put system radio.sib1_thresh 31
+settings put system radio.sib3_thresh 31
+settings put system radio.sib16_thresh 31
+settings put secure allow_heat_cooldown_schedule true
+settings put secure allow_heat_cooldown_always 1
+settings put secure heat_cooldown_schedule 5s
+settings put secure allow_more_heat_value 30
+)> /dev/null 2>&1
+echo " [•] blood ip address is thesame( on )✔ "
+(
+for app in $(cmd package list packages -a | cut -f 2 -d ":"); do
+device_config put game_overlay "$app" mode=1,downscaleFactor=0.3:mode=3,downscaleFactor=0.3
+cmd device_config put game_overlay "$app" mode=1,downscaleFactor=0.3:mode=3,downscaleFactor=0.3
+cmd game mode performance "$app"
+device_config put game_overlay "$app" mode=2,downscaleFactor=0.9:mode=2,downscaleFactor=0.9
+cmd device_config put game_overlay "$app" mode=2,downscaleFactor=0.9:mode=2,downscaleFactor=0.9
+done
+)> /dev/null 2>&1
+echo " [•] test ip new:2.456.01.01 ✔ ( on ) "
+(
+setprop debug.enable.turbo.internet 1
+setprop debug.hwui.renderer skiagl
+setprop debug.renderengine.backend skiaglthreaded 
+setprop debug.egl.force_msaa 0
+setprop debug.egl.force_fxaa 0
+setprop debug.egl.force_taa 0
+setprop debug.egl.force_ssaa 0
+setprop debug.egl.force_smaa 0
+setprop debug.gr.swapinterval 0
+setprop debug.hwui.fps_divisor 1
+setprop debug.cpurend.vsync false
+setprop debug.gpurend.vsync false
+setprop debug.duration_tap 1
+setprop debug.touchscreen.latency.scale 0,5
+setprop debug.sf.late.sf.duration 2000000
+setprop debug.sf.use_phase_offsets_as_durations 1
+setprop debug.sf.late.app.duration 6000000
+setprop debug.sf.frame_rate_multiple_threshold 165
+setprop debug.sf.earlyGl.sf.duration 16600000
+setprop debug.sf.earlyGl.app.duration 16600000
+setprop debug.sf.early.app.duration 16600000
+setprop debug.sf.early.sf.duration 16600000
+setprop debug.egl.hw 1
+setprop debug.ro.min_pointer_dur 1
+setprop debug.view.scroll_friction 0
+setprop debug.windowsmgr.max_events_per_sec 300
+setprop debug.duration_tap 50
+setprop debug.sf.use_phase_offsets_as_durations 1
+setprop debug.sf.late.sf.duration 10500000
+setprop debug.adreno.disable_backend_affinity
+setprop debug.mali.disable_backend_affinity true
+setprop debug.dexopt.bg-dexopt speed-profile
+setprop debug.dexopt.shared speed
+setprop dalvik.vm.usejit true
+setprop debug.sf.gpu_freq_index 7
+setprop debug.sf.high_fps_early_gl_phase_offset_ns 100000
+setprop debug.sf.high_fps_early_phase_offset_ns 100000
+setprop debug.sf.high_fps_late_app_phase_offset_ns 100000
+setprop debug.sf.high_fps_late_sf_phase_offset_ns 100000
+setprop debug.hwui.profile.maxframes 120
+setprop debug.native.dump 0
+setprop debug.hwc.force_gpu 1
+setprop debug.hwc.force_cpu 1
+setprop debug.renderengine.backend skiagl
+setprop debug.graphics.gpu.profiler.support true
+setprop debug.systemuicompilerfilter speed
+setprop debug.sensor.hal 0
+setprop debug.egl.force_msaa false
+setprop debug.egl.force_fxaa false
+setprop debug.egl.force_taa false
+setprop debug.rs.max-threads 8
+setprop debug.rs.min-threads 8
+setprop debug.rs.max-threads 8
+setprop debug.rs.min-threads 8
+setprop debug.sf.gpu_freq_index 7
+setprop debug.thermal_zone.cpu_hotplug_control 2
+setprop debug.thermal_zone.cpu_threshold_temp 90
+setprop debug.thermal_zone.gpu_hotplug_control 2
+setprop debug.thermal_zone.gpu_threshold_temp 95
+setprop debug.thermal_zone.camera_hotplug_control 2
+setprop debug.thermal_zone.camera_threshold_temp 85
+setprop debug.thermal_zone.battery_hotplug_control 2
+setprop debug.thermal_zone.battery_threshold_temp 60
+setprop debug.thermal_zone.display_hotplug_control 2
+setprop debug.thermal_zone.display_threshold_temp 80
+cmd power set-fixed-performance-mode-enabled true 
+setprop debug.sf.disable_client_composition_cache 1
+setprop debug.sf.enable_advanced_sf_phase_offset 1
+setprop debug.sf.enable_gl_backpressure 1
+setprop debug.sf.predict_hwc_composition_strategy 0
+setprop debug.sf.high_fps_early_gl_phase_offset_ns -2000000
+setprop debug.sf.high_fps_early_phase_offset_ns -4000000
+setprop debug.sf.high_fps_late_app_phase_offset_ns 1000000
+setprop debug.sf.high_fps_late_sf_phase_offset_ns -2000000
+setprop debug.sf.latch_unsignaled 1
+setprop debug.sf.treat_170m_as_sRGB 1
+setprop debug.sf.gpu_freq_index 7
+setprop debug.sf.cpu_freq_index 7
+setprop debug.sf.memory_freq_index 7
+setprop debug.graphics.gpu.profiler.support true
+setprop debug.systemuicompilerfilter speed
+setprop debug.sensor.hal 0
+setprop debug.egl.force_msaa false
+setprop debug.egl.force_fxaa false
+setprop debug.egl.force_taa false
+setprop debug.composition.type mdp
+setprop debug.mdpcomp.maxlayer 999
+setprop debug.fb.rgb565 1
+setprop debug.rs.max-threads 8
+setprop debug.rs.min-threads 8
+setprop debug.performance.tuning 1
+setprop debug.gpu.scheduler_pre.emption 1
+setprop debug.gpu.scheduler_pre.emption 1
+setprop debug.performance_schema_digests_size 9950000
+setprop debug.sf.max_igbp_list_size 0
+setprop debug.sf.predict_hwc_composition_strategy 1
+setprop debug.sf.enable_transaction_tracing true
+setprop debug.sf.vsync_reactor_ignore_present_fences false
+setprop debug.gralloc.gfx_ubwc_disable false
+setprop debug.mdpcomp.mixedmode.disable false
+setprop debug.hwc.fbsize XRESxYRES
+setprop debug.sdm.support_writeback 1
+setprop debug.sdm.disable_skip_validate 1
+setprop debug.sf_frame_rate_multiple_fences 999
+setprop debug.sf.early.app.duration 16600000
+setprop debug.sf.early.sf.duration 16600000
+setprop debug.sf.earlyGl.app.duration 16600000
+setprop debug.sf.earlyGl.sf.duration 16600000
+setprop debug.sf.high_fps_early_gl_phase_offset_ns 9000000
+setprop debug.sf.high_fps_early_phase_offset_ns 6100000
+setprop debug.sf.hw 1
+setprop debug.sf.perf_fps_early_gl_phase_offset_ns 12000000
+setprop debug.performance_schema 1
+setprop debug.performance_schema_max_memory_classes 387
+setprop debug.performance_schema_max_socket_classes 10
+setprop debug.composition.type mdp
+setprop debug.composition.type2 gpu
+setprop debug.gr.swapinterval -1
+setprop debug.hwui.disabledither false
+setprop debug.sf.hw 1
+setprop debug.sf.enable_hgl 1
+setprop debug.disable.hwacc 0
+setprop debug.disable_sched_boost true
+setprop debug.javafx.animation.fullspeed true
+setprop debug.rs.default-CPU-driver 1
+setprop debug.MB.inner.running 57
+setprop debug.MB.running 16
+setprop debug.hwui.render_dirty_regions false
+setprop debug.hwc.bq_count 3
+setprop debug.multicore.processing 1
+setprop debug.hwui.disable_draw_reorder true
+setprop debug.perfhudes 1
+setprop debug.sf.enable_hgl 1
+setprop debug.heat_suppression 0
+setprop debug.dev.addfree 4
+setprop debug.gfx.driver 1
+setprop debug.sf.showfps 0
+setprop debug.egl.hw 1
+setprop debug.hwui.fps_divisor -1
+setprop debug.cpurend.vsync false
+setprop debug.gpurend.vsync false
+setprop debug.power_management_mode pref_max
+settings put global activity_manager_constants max_cached_processes=2048
+settings put system pointer_speed 7
+setprop debug.mdpcomp.maxpermixer 0
+setprop debug.performance.tuning 1
+setprop debug.hal_client_domain hal_vperf
+setprop debug.cpuprio 7
+setprop debug.gpuprio 7
+setprop debug.hwui.target_cpu_time_percent 100
+setprop debug.hwui.target_gpu_time_percent 100
+setprop debug.renderthread.reduceopstasksplitting true
+setprop debug.renderer.process_compound true
+setprop debug.performance.disturb false
+setprop debug.sf.frame_rate_multiple_threshold 999
+setprop debug.sf_frame_rate_multiple_fences 999
+setprop debug.egl.force_msaa false
+setprop debug.egl.force_fxaa false
+setprop debug.egl.force_taa false
+setprop debug.egl.force_ssaa false
+setprop debug.egl.force_smaa false
+setprop debug.egl.native_scaling false
+)> /dev/null 2>&1
+echo " [•] fast ip ( 167ping )"
+(
+settings put system pointer_speed 7
+settings put global low_power 0
+settings put global low_power_sticky 1
+settings put global NON_DISPATCHABLE_HANDLE 25
+settings put global job_scheduler_constants null
+settings put global wifi_scan_always_enabled 0
+settings put global ota_disable_automatic_update 0
+settings put global low_power_exceptions 1
+settings put global native_memtag_sync 1
+settings put global native_heap_zero_init 1
+settings put global gpu_renderer_policy 1
+settings put global gpu_composition_policy 1
+settings put global gpu_render_policy 1
+settings put global enable_hw_2d 1
+settings put global enable_hw_3d 1
+settings put global low_power 0
+settings put global low_power_sticky 0
+settings put global NON_DISPATCHABLE_HANDLE 25
+settings put global job_scheduler_constants null
+settings put global wifi_scan_always_enabled 0
+settings put global ota_disable_automatic_update 0
+settings put global low_power_exceptions 1
+settings put global native_memtag_sync 1
+settings put global native_heap_zero_init 1
+settings put global gpu_renderer_policy 1
+settings put global gpu_composition_policy 1
+settings put global gpu_render_policy 1
+settings put global enable_hw_2d 1
+settings put global enable_hw_3d 1
+settings put global job_scheduler_constants 1
+settings put global animator_duration_scale 0.5
+settings put global transition_animation_scale 0.5
+settings put global window_animation_scale 0.5
+settings put global zen_mode 0
+settings put global zen_mode_config_etag -200000
+settings put global activity_manager_constants 1
+settings put global fstrim_mandatory_interval 1
+settings put global dev.pm.dyn_samplingrate 1
+settings put global hwui.disable_vsync true
+settings put global force_hw_ui true
+settings put global persist.sampling_profiler 0
+settings put global persist.sys.pugerable_assets 1
+settings put global performance.mode high
+settings put system user_refresh_rate 120
+settings put system peak_refresh_rate 120
+settings put system thermal_limit_refresh_rate 120
+settings put system pointer_speed 7
+settings put secure location_providers_allowed -network
+settings put secure location_providers_allowed -gps,network
+settings put secure location_providers_allowed -gps
+settings put secure location_providers_allowed -network
+settings put global network_avoid_bad_wifi 0
+settings put global network_scoring_ui_enabled 0
+settings put global tcp_default_init_rwnd 20
+settings put global wifi_country_code GB
+settings put global wifi_frequency_band 0
+settings put global wifi_max_dhcp_retry_count 0
+settings put global wifi_framework_scan_interval_ms 0
+settings put global wifi_supplicant_scan_interval_ms 5000
+settings put global wifi_watchdog_poor_network_test_enabled 0
+settings put global netstats_enabled 1
+settings put global connectivity_metrics_buffer_size 20000
+settings put --user 0 global wifi_score_params rssi2=-95:-85:-73:-60,rssi5=-85:-82:-70:-57
+settings put --user 0 global wifi_coverage_extend_feature_enabled 0
+settings put --user 0 global wifi_networks_available_notification_on 0
+settings put --user 0 global wifi_poor_connection_warning 0
+settings put --user 0 global wifi_scan_always_enabled 0
+settings put --user 0 global wifi_scan_throttle_enabled 0
+settings put --user 0 global wifi_verbose_logging_enabled 0
+settings put --user 0 global wifi_suspend_optimizations_enabled 1
+settings put --user 0 global wifi_wakeup_enabled 0
+settings put --user 0 global sysui_powerui_enabled 1
+settings put --user 0 global ble_scan_always_enabled 0
+)> /dev/null 2>&1
+echo " [•] fast phone (on) ✔ "
+cacheswipper () {
+nohup rm -rf /data/media/0/Android/data/*/cache/*
+nohup rm -rf /data/data/*/cache
+nohup rm -rf /data/data/*/*cache
+nohup rm -rf /data/data/*/*cache*
+nohup rm -rf /data/data/*/cache*
+nohup rm -rf /data/data/*/code_cache
+nohup rm -rf /data/data/*/code_cache*
+nohup rm -rf /data/data/*/*code_cache
+nohup rm -rf /data/data/*/*code_cache*
+nohup rm -rf /data/data/*/app_ads_cache
+nohup rm -rf /data/media/0/Android/data/*/cache*/*
+nohup rm -rf /data/media/0/Android/data/*/*cache/*
+nohup rm -rf /data/media/0/Android/data/*/*cache*/
+nohup rm -rf /data_mirror/data_ce/null/0/*/cache
+nohup rm -rf /data_mirror/data_ce/null/0/*/cache*
+nohup rm -rf /data_mirror/data_ce/null/0/*/*cache*
+nohup rm -rf /data_mirror/data_ce/null/0/*/cache*
+nohup rm -rf /data_mirror/data_de/null/0/*/cache
+nohup rm -rf /data_mirror/data_de/null/0/*/cache*
+nohup rm -rf /data_mirror/data_de/null/0/*/*cache*
+nohup rm -rf /data_mirror/data_de/null/0/*/cache*
+nohup rm -rf /data_mirror/data_ce/null/0/*/cache_code
+nohup rm -rf /data_mirror/data_ce/null/0/*/cache_code*
+nohup rm -rf /data_mirror/data_ce/null/0/*/*cache_code*
+nohup rm -rf /data_mirror/data_ce/null/0/*/cache_code*
+nohup rm -rf /data_mirror/data_de/null/0/*/cache_code
+nohup rm -rf /data_mirror/data_de/null/0/*/cache_code*
+nohup rm -rf /data_mirror/data_de/null/0/*/*cache_code*
+nohup rm -rf /data_mirror/data_de/null/0/*/cache_code*
+pm trim-caches 999G
+}
+cacheswipper > /dev/null 2>&1
+echo " Amiroux-root-Ip"
+echo ""
+echo " [•■□□□□□□□□□•] 10 % "
+sleep 1
+echo " [•■■□□□□□□□□•] 20 % "
+sleep 1
+echo " [•■■■□□□□□□□•] 30 % "
+sleep 2
+echo " [•■■■■□□□□□□•] 40 % "
+sleep 2
+echo " [•■■■■■□□□□□•] 50 % "
+sleep 1
+echo " [•■■■■■■□□□□•] 60 % "
+sleep 2
+echo " [•■■■■■■■□□□•] 70 % "
+sleep 1
+echo " [•■■■■■■■■□□•] 90 % "
+sleep 1
+echo " [•■■■■■■■■■□•] 95 % "
+sleep 3
+echo " [•■■■■■■■■■■•] 100 % "
+cmd notification post -S bigtext -t '𝗧𝗢𝗨𝗖𝗛 IP And MACRO' 'Tag' '𝗦𝗨𝗖𝗖𝗘𝗦𝗦𝗙𝗨𝗟𝗟𝗬 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗘𝗗 ' > /dev/null 2>&1
+echo " <> ip new start (on) "
+sleep 3
+am start -a android.intent.action.VIEW -d https://www.facebook.com/profile.php?id=100038469920090=1 >/dev/null 2>&1 & >/dev/null 2>&1
